@@ -50,11 +50,11 @@
     <distributionManagement>
         <repository>
             <id>nexus</id>
-            <url>http://ec2-3-109-157-223.ap-south-1.compute.amazonaws.com:8081/repository/Java/</url>
+            <url>http://ec2-54-198-145-138.compute-1.amazonaws.com:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
-            <url>http://ec2-3-109-157-223.ap-south-1.compute.amazonaws.com:8081/repository/Java/</url>
+            <url>http://ec2-54-198-145-138.compute-1.amazonaws.com:8081/repository/maven-releases/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
